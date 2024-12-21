@@ -9,7 +9,8 @@ Initial Security()
 {
  //Sample Code
 }
-
-
+Initial Function1()
+{
+	//Sample code1
 
 }
